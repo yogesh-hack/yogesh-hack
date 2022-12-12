@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi , I'm Yogesh Baghel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Microsoft+Learn+Student+Ambassador+Beta;DS%20|%20Algorithms%20|%20OOP%20;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+</p> -->
 
 
 <br>
 
-## 💁‍♂️man:  About me
-- 👋 Hi, I’m @yogesh
-- 👀 I’m interested in cyber security 
+## 💁‍♂️ About me
+- 👋 Hi, I’m `Yogesh`
+- 👀 I’m interested in `cyber security`, `Development`.
 - 🌱 I’m currently learning `python/c++/c,Machine Learning`
-- :school: I am a Computer Science Senior 
+- :school: I am a `Computer Science Senior `
 - :nerd_face: Always `learning new things`
 
 <br>
