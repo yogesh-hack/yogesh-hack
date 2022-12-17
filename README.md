@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h1 align="center">Hi , I'm Yogesh Baghel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Microsoft+Learn+Student+Ambassador+Beta;DS%20|%20Algorithms%20|%20OOP%20;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -19,10 +19,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Reach me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh0909baghel@gmail.com) &emsp;
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="yogesh-baghel-5ab305221" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yogesh-baghel-5ab305221?trk=profile-badge">Yogesh Baghel</a></div>
-[![Twitter -](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;
+[![LinkedIn - yogesh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesg0909baghel)
+[![Twitter - yogesh](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)&emsp;
 [![Instagram - @mr.yogesh](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/mr.yo_ge_sh)
-<br><br>9. #️ 📖 **Articles and Posts**<br>
+<br><br>
 &emsp;&emsp;&emsp;
 
 <br>
