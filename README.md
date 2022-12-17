@@ -126,6 +126,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- Intro with Machine learning
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>
