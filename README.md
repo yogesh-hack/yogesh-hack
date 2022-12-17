@@ -123,9 +123,6 @@
 </p>
 
 <br/>
-## 📊 Github Stats
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-hack" alt="yogesh-hack" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -133,8 +130,16 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://medium.com/@yogesh0909baghel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yogesh0909baghel" height="30" width="40" /></a>
+<a href="https://medium.com/@yogesh0909baghel" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvc3KaUA3oUQrm_0sfC937gw1HKfnsBe1A84wM6X9ATCcO5s2tRWmSDZuKxvb1WlU4e0&usqp=CAU)" alt="@yogesh0909baghel" height="30" width="40" /></a>
 </p>
+<p align="left">
+<a href="https://yogesh-hack.github.io/TechInsta.github.io/" target="blank"><img align="center" src="https://yogesh-hack.github.io/TechInsta.github.io/logo_free-file.png" alt="@yogesh0909baghel" height="30" width="40" />TechInsta</a>
+</p>
+
+## 📊 Github Stats
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-hack" alt="yogesh-hack" /></a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-hack&show_icons=true&locale=en&layout=compact" alt="yogesh-hack" /></p>
 
