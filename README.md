@@ -18,7 +18,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Reach me
 <p align="left">
-<a href="https://www.linkedin.com/in/yogesg0909baghel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83384315/208226942-76ad1916-77d4-4beb-9066-1684147729e6.png" alt="@yogesh0909baghel" height="250" width="600" /></a>
+<a href="https://www.linkedin.com/in/yogesg0909baghel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83384315/208226942-76ad1916-77d4-4beb-9066-1684147729e6.png" alt="@yogesh0909baghel" height="600" width="250" /></a>
 </p>
 
 <br>
