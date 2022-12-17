@@ -17,16 +17,13 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Reach me
-
+[![linkedin](https://user-images.githubusercontent.com/83384315/208226942-76ad1916-77d4-4beb-9066-1684147729e6.png)](https://www.linkedin.com/in/yogesg0909baghel) <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh0909baghel@gmail.com) &emsp;
-[![LinkedIn - yogesh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesg0909baghel)
 [![Twitter - yogesh](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)&emsp;
 [![Instagram - @mr.yogesh](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/mr.yo_ge_sh)
 <br><br>
 &emsp;&emsp;&emsp;
-
 <br>
-
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
