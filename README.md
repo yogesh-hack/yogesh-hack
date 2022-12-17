@@ -123,6 +123,7 @@
 </p>
 
 <br/>
+## 📊 Github Stats
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-hack" alt="yogesh-hack" /></a> </p>
 
@@ -130,7 +131,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://medium.com/@yogesh0909baghel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yogesh0909baghel" height="30" width="40" /></a>
 </p>
@@ -141,33 +142,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-hack&" alt="yogesh-hack" /></p>
 
-<!-- ## 📊 Github Stats
 
 
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/RIKI-05/github-readme-stats"><img alt="Rishika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RIKI-05"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIKI-05&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Rishika" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
- 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/RIKI-05"><img alt="Rishika's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RIKI-05&bg_color=ffffff&color=000000&line=000000&point=6a1edc&area=true&hide_border=true" /></a>
-  <br/>
--->
-
-<br/>
-<!-- 
-## :trophy: Git profile Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p> -->
 
 -----
 Credits: [yogesh](https://github.com/yogesh-hack)
