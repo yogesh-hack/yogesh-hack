@@ -1,4 +1,4 @@
-![Yogesh Baghel](https://user-images.githubusercontent.com/83384315/208284446-e72d75fc-62c2-43ce-8226-cafb1a4840a0.png)
+![Yogesh Baghel (1)](https://user-images.githubusercontent.com/83384315/208284516-8e06307c-7422-45a6-a7a7-3d18aa8db0a5.png)
 
 <h1 align="center">Hi , I'm Yogesh Baghel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
