@@ -21,10 +21,6 @@
 <br><br>
 &emsp;&emsp;&emsp;
 <br>
-### ✍️ Quote (Refresh for more)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br>
 
 ## 👀 My Competitive Programming Profiles
 
