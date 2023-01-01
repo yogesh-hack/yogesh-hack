@@ -124,26 +124,21 @@
 <br/>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- Intro with Machine learning
-<!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://medium.com/@yogesh0909baghel" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvc3KaUA3oUQrm_0sfC937gw1HKfnsBe1A84wM6X9ATCcO5s2tRWmSDZuKxvb1WlU4e0&usqp=CAU" alt="@yogesh0909baghel" height="30" width="40" />Medium</a>
 </p>
-<p align="left">
-<a href="https://yogesh-hack.github.io/TechInsta.github.io/" target="blank"><img align="center" src="https://yogesh-hack.github.io/TechInsta.github.io/logo_free-file.png" alt="@yogesh0909baghel" height="30" width="40" />TechInsta</a>
-</p>
+
 
 ## 📊 Github Stats
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-hack" alt="yogesh-hack" /></a> </p>
+	<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-hack" alt="yogesh-hack" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-hack&show_icons=true&locale=en&layout=compact" alt="yogesh-hack" /></p>
+	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-hack&show_icons=true&locale=en&layout=compact" alt="yogesh-hack" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh-hack&show_icons=true&locale=en" alt="yogesh-hack" /></p>
+	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh-hack&show_icons=true&locale=en" alt="yogesh-hack" /></p>
 
 
    <p align="center">
@@ -151,7 +146,7 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-hack&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
       <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
    </p>
-  </div>
+</div>
 
 
 
