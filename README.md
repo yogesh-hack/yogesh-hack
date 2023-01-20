@@ -142,11 +142,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-hack&" alt="yogesh-hack" /></p>
 	
-   <p align="center">
-      <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388511-9b4590dc-96f5-402a-9b6b-b51add4efc70.png">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-hack&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-      <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
-   </p>
 </div>
 
 
@@ -155,4 +150,4 @@
 -----
 Credits: [yogesh](https://github.com/yogesh-hack)
 
-Last Edited on: 12/12/2022
+Last Edited on: 20/01/2023
