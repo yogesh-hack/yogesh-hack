@@ -133,7 +133,8 @@
 
 ## 📊 Github Stats
 <div align="center">
-	<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-hack" alt="yogesh-hack" /></a> </p>
+
+![](https://github-profile-trophy.vercel.app/?username=yogesh-hack&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-hack&show_icons=true&locale=en&layout=compact" alt="yogesh-hack" /></p>
