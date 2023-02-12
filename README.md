@@ -1,4 +1,5 @@
 ![Yogesh Baghel (1)](https://user-images.githubusercontent.com/83384315/208284516-8e06307c-7422-45a6-a7a7-3d18aa8db0a5.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-hack&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-hack" /> </p>
 
 <h1 align="center">Hi , I'm Yogesh Baghel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
