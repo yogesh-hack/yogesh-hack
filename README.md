@@ -139,6 +139,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=yogesh-hack&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh-hack&show_icons=true&locale=en" alt="yogesh-hack" /></p>
+	
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-hack&show_icons=true&locale=en&layout=compact" alt="yogesh-hack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-hack&" alt="yogesh-hack" /></p>
 	
@@ -150,4 +152,4 @@
 -----
 Credits: [yogesh](https://github.com/yogesh-hack)
 
-Last Edited on: 20/01/2023
+Last Edited on: 13/02/2023
