@@ -20,6 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh0909baghel@gmail.com) &emsp;
 [![Twitter - @yogesh-hack](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@yogesh-hack)&emsp;
 [![Instagram - @mr.yogesh](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/mr.yo_ge_sh)
+[![Likedin - YogeshCSE](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/yogesh-baghel-5ab305221/)
 <br><br>
 &emsp;&emsp;&emsp;
 <br>
@@ -28,7 +29,7 @@
 
 <p align="left">
 	<a href="https://leetcode.com/yogesh0909baghel/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.hackerrank.com/yogesh0909baghel"><img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="Code Chef"/></a>
+	<a href="https://www.hackerrank.com/yogesh0909baghel"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Code Chef"/></a>
 </p>
 
 
