@@ -28,8 +28,9 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="left">
-	<a href="https://leetcode.com/yogesh0909baghel/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://leetcode.com/yogesh0909baghel/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 	<a href="https://www.hackerrank.com/yogesh0909baghel"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Code Chef"/></a>
+	<a href="https://codepen.io/yogesh_hack"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
 
 
