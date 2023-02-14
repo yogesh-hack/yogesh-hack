@@ -7,7 +7,7 @@
 <br>
 
 ## 💁‍♂️ About me
-- 👋 Hi, I’m `Yogesh`
+- 🏫 CSE undergrad
 - 👀 I’m interested in `cyber security`, `Development`.
 - 🌱 I’m currently learning `python/c++/c,Machine Learning`
 - :school: I am a `Computer Science Senior `
@@ -28,7 +28,7 @@
 
 <p align="left">
 	<a href="https://leetcode.com/yogesh0909baghel/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.codechef.com/users/yugi123/"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+	<a href="https://www.hackerrank.com/yogesh0909baghel"><img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="Code Chef"/></a>
 </p>
 
 
@@ -127,7 +127,6 @@
 
 ### Blogs posts
 
-<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://medium.com/@yogesh0909baghel" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvc3KaUA3oUQrm_0sfC937gw1HKfnsBe1A84wM6X9ATCcO5s2tRWmSDZuKxvb1WlU4e0&usqp=CAU" alt="@yogesh0909baghel" height="30" width="40" />Medium</a>
 </p>
