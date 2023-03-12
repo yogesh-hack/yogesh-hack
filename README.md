@@ -8,10 +8,9 @@
 
 ## 💁‍♂️ About me
 - 🏫 CSE undergrad
-- 👀 I’m interested in `cyber security`, `Development`.
-- 🌱 I’m currently learning `python/c++/c,Machine Learning`
-- :school: I am a `Computer Science Senior `
-- :nerd_face: Always `learning new things`
+- 👀 I am currently focusing on `Machine Learning` and learning `Javascript` and `Python`.
+- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech field.
+- 👀 I’m interested in `Writting`, `Reading`, `create New Projects`.
 
 <br>
 
