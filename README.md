@@ -6,7 +6,7 @@
 
 <br>
 
-## 💁‍♂️ About me
+# 💁‍♂️ About me
 - 🏫 CSE undergrad
 - 👀 I am currently focusing on `Machine Learning` and learning `Javascript` and `Python`.
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech field.
@@ -14,7 +14,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Reach me
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Reach me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh0909baghel@gmail.com) &emsp;
 [![Twitter - @yogesh-hack](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@yogesh-hack)&emsp;
@@ -24,7 +24,7 @@
 &emsp;&emsp;&emsp;
 <br>
 
-## 👀 My Programming Profiles
+# 👀 My Programming Profiles
 
 <p align="left">
 	<a href="https://leetcode.com/yogesh0909baghel/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
@@ -36,9 +36,9 @@
 </p>
 
 
-## 🛠️ My Skills
+# 🛠️ My Skills
 
-#### 👉 Programming languages
+### 👉 Programming languages
 
 <p align="left"> 
 	<a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -60,7 +60,7 @@
   </a>
 </p>
 
-#### 👉 Frontend Development
+### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -88,7 +88,7 @@
   </a>  
 </p>
 
- #### 👉 Software & Tools
+ ### 👉 Software & Tools
  
 <p align="left">
   &emsp;
@@ -98,7 +98,7 @@
   &emsp;
 
   
- #### 👉 IDEs
+ ### 👉 IDEs
  
 <p align="left">
   &emsp;
@@ -111,7 +111,7 @@
 </p>
 
 
- #### 👉 Operating Systems
+ ### 👉 Operating Systems
  
 <p align="left">
   &emsp;
@@ -125,25 +125,20 @@
 
 <br/>
 
-### Blogs posts
+# Blogs posts
 
 <p align="left">
 <a href="https://medium.com/@yogesh0909baghel" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 
-## 📊 Github Stats
-<div align="center">
+# 📊 Github Stats
+![](https://github-readme-stats.vercel.app/api?username=yogesh-hack&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yogesh-hack&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-hack&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=yogesh-hack&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh-hack&show_icons=true&locale=en" alt="yogesh-hack" /></p>
-
-[![Yogesh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-hack&theme=black-white)](https://github.com/yogesh-hack/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-hack&" alt="yogesh-hack" /></p>
-	
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yogesh-hack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -151,4 +146,4 @@
 -----
 Credits: [yogesh](https://github.com/yogesh-hack)
 
-Last Edited on: 13/02/2023
+Last Edited on: 19/03/2023
