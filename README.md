@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm Yogesh Baghel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![](https://visitcount.itsvg.in/api?id=Mayank-57&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yogesh-hack&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
