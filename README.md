@@ -1,6 +1,5 @@
 <!-- ![Yogesh Baghel (1)](https://user-images.githubusercontent.com/83384315/208284516-8e06307c-7422-45a6-a7a7-3d18aa8db0a5.png) -->
 
-<div align="center">
 <h1 align="center">Hi , I'm Yogesh Baghel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Web+Developer;DS%20|%20Algorithms%20|%20OOP%20;(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -18,16 +17,20 @@
   </a>
 </div>
 
-<div align="left">
 - 🏫 CSE undergrad
 - 👀 I am currently focusing on `Machine Learning` and learning `Javascript` and `Python`.
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech field.
 - 👀 I’m interested in `Writting`, `Reading`, `create New Projects`.
-</div>
 
 <br>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Reach me
+<div align="center">
+  <a href="https://github.com/imharris24">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=Reach+me" alt="Typing SVG" />
+  </a>
+</div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh0909baghel@gmail.com) &emsp;
 [![Twitter - @yogesh-hack](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@yogesh-hack)&emsp;
@@ -74,7 +77,6 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yogesh-hack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
 
 
 -----
