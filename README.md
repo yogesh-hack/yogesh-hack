@@ -12,11 +12,18 @@
 
 <br>
 
-## 💁‍♂️ About me
+<div align="center">
+  <a href="https://github.com/imharris24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=🙍‍♂️+About+me" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="left">
 - 🏫 CSE undergrad
 - 👀 I am currently focusing on `Machine Learning` and learning `Javascript` and `Python`.
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech field.
 - 👀 I’m interested in `Writting`, `Reading`, `create New Projects`.
+</div>
 
 <br>
 
