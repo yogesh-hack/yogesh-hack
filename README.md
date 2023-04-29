@@ -44,11 +44,9 @@
 
 ### 🛠️ My Skills
 
-##### 👉 Programming languages
-
 <div align="left">
-  <a href="https://github.com/imharris24">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,nodejs,md,reactjs,nextjs,pycharm,linux,powershell,git,github,stackoverflow,visualstudio,vscode,figma,bootstrap,tailwind&perline=7" />
+  <a href="https://github.com/yogesh-hack">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,nodejs,express,md,react,redux,nextjs,pycharm,linux,powershell,git,github,stackoverflow,visualstudio,vscode,figma,bootstrap,tailwind&perline=7" />
   </a>
 </div>
 
