@@ -12,7 +12,7 @@
 <br>
 
 <div align="left">
-  <a href="https://github.com/imharris24">
+  <a href="https://github.com/yogesh-hack">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=🙍‍♂️+About+me" alt="Typing SVG" />
   </a>
 </div>
@@ -38,7 +38,7 @@
 &emsp;&emsp;&emsp;
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/yogesh-hack">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=👨‍💻+My+Programming+Profiles" alt="Typing SVG" />
   </a>
