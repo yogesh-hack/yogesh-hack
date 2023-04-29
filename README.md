@@ -1,6 +1,6 @@
 <!-- ![Yogesh Baghel (1)](https://user-images.githubusercontent.com/83384315/208284516-8e06307c-7422-45a6-a7a7-3d18aa8db0a5.png) -->
 
-
+<div align="center">
 <h1 align="center">Hi , I'm Yogesh Baghel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Web+Developer;DS%20|%20Algorithms%20|%20OOP%20;(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -67,7 +67,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yogesh-hack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
+</div>
 
 
 -----
