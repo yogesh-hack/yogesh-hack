@@ -11,12 +11,8 @@
 
 <br>
 
-<div align="left">
-  <a href="https://github.com/yogesh-hack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=🙍‍♂️+About+me" alt="Typing SVG" />
-  </a>
-</div>
 
+## 🙎 About Me
 - 🏫 CSE undergrad
 - 👀 I am currently focusing on `Machine Learning` and learning `Javascript` and `Python`.
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech field.
@@ -24,12 +20,8 @@
 
 <br>
 
-<div align="left">
-  <a href="https://github.com/yogesh-hack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=Reach+me" alt="Typing SVG" />
-  </a>
-</div>
 
+## 🧘‍Reach Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh0909baghel@gmail.com) &emsp;
 [![Twitter - @yogesh-hack](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@yogesh-hack)&emsp;
 [![Instagram - @mr.yogesh](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/mr.yo_ge_sh)
@@ -38,13 +30,9 @@
 &emsp;&emsp;&emsp;
 <br>
 
-<div align="left">
-  <a href="https://github.com/yogesh-hack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=👨‍💻+My+Programming+Profiles" alt="Typing SVG" />
-  </a>
-</div>
 
 
+## 🤹🏼 My Programming Profiles
 <p align="left">
 	<a href="https://leetcode.com/yogesh0909baghel/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 	<a href="https://www.hackerrank.com/yogesh0909baghel"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Code Chef"/></a>
@@ -55,12 +43,8 @@
 </p>
 
 
-<div align="left">
-  <a href="https://github.com/yogesh-hack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=🤹+My+Skills" alt="Typing SVG" />
-  </a>
-</div>
 
+## 🧠 My Skills
 <div align="left">
   <a href="https://github.com/yogesh-hack">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mysql,nodejs,express,md,react,redux,nextjs,pycharm,linux,powershell,git,github,stackoverflow,visualstudio,vscode,figma,bootstrap,tailwind&perline=7" />
@@ -69,12 +53,8 @@
 
 <br/>
 
-<div align="left">
-  <a href="https://github.com/yogesh-hack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=🚩+Blog+Posts" alt="Typing SVG" />
-  </a>
-</div>
 
+## 🚩 Blog Posts
 <p align="left">
 <a href="https://medium.com/@yogesh0909baghel" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
